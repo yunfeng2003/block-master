@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/component/block-master.git"
+    "url": "https://github.com/yunfeng2003/block-master.git"
   },
   "bugs": {
-    "url": "https://github.com/component/block-master/issues",
+    "url": "https://github.com/yunfeng2003/block-master/issues",
     "email": "yunfeng2003@hotmail.com"
   },
   "license": "MIT"
