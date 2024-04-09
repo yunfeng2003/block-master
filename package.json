@@ -1,5 +1,5 @@
 {
-  "name": "block",
+  "name": "block-master",
   "description": ".replace('{{block}}', string)",
   "version": "0.2.1",
   "devDependencies": {
