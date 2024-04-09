@@ -10,18 +10,17 @@
     "test": "make test"
   },
   "author": {
-    "name": "Jonathan Ong",
-    "email": "me@jongleberry.com",
-    "url": "http://jongleberry.com",
-    "twitter": "https://twitter.com/jongleberry"
+    "name": "yunfeng2003",
+    "email": "yunfeng2003@hotmail.com",
+    "url": "http://wangyunfeng.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/component/block.git"
+    "url": "https://github.com/component/block-master.git"
   },
   "bugs": {
-    "url": "https://github.com/component/block/issues",
-    "email": "me@jongleberry.com"
+    "url": "https://github.com/component/block-master/issues",
+    "email": "yunfeng2003@hotmail.com"
   },
   "license": "MIT"
 }
