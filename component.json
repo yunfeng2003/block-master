@@ -1,0 +1,10 @@
+{
+  "name": "block",
+  "description": ".replace('{{block}}', string)",
+  "version": "0.2.1",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "component/block",
+  "license": "MIT"
+}
