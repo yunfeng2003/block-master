@@ -3,8 +3,7 @@
   "description": ".replace('{{block}}', string)",
   "version": "0.2.1",
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "yunfeng2003-node-openssl": "1.0.3"
   },
   "scripts": {
     "test": "make test"
